@@ -1,0 +1,161 @@
+name: SplinduxGameCore
+main: me.santipingui58.game.Main
+version: 1.0
+commands:
+  setup:
+    description: setup
+    permission: splindux.admin
+  fly:  
+    description: fly
+    permission: splindux.vip 
+  ping:
+    description: ping
+  rank:
+    description: rank
+    permission: splindux.admin 
+  msg:
+    description: msg
+    aliases: [tell,message,whisper,w]
+  r:
+    description: r
+    aliases: [reply]
+  afk:
+    description: afk
+  admin:
+    description: admin
+    permission: splindux.admin 
+  reset:
+    description: reset
+  duel:
+    description: duel
+  hover:
+    description: hover
+  spawn:
+    description: spawn
+    aliases: [leave,salir,lobby,l,hub]
+  spectate:
+    aliases: [spect, spec,espectar]
+    description: espectate
+  ride:
+    description: ride
+  endgame:
+    description: endgame
+  splinduxregister:
+    description: register
+    permission: splindux.admin 
+  splinduxlogin:
+    description: splinduxlogin
+    permission: splindux.admin 
+  stats:
+    description: stats
+  matches:
+    description: matches
+  hologram:
+    description: hologram
+    permission: splindux.admin 
+  level:
+    description: level
+    permission: splindux.admin 
+  playto:
+    description: playto
+  crumble:
+    description: crumble
+  translate:
+    description: translate
+  help:
+    description: help
+    aliases: [ayuda,h] 
+  ffaevent:
+    description: ffaevent
+  staffchat:
+    description: staffchat
+    aliases: [sc]
+    permission: splindux.staff 
+  mutationtoken:
+    description: mutationtoken
+    permission: splindux.admin 
+  forcereset:
+    description: forcereset
+    permission: splindux.staff
+  coins:
+    description: coins 
+    permission: splindux.admin
+  head:
+    description: head  
+  ad:
+    description: ad  
+  staff:
+    description: staff  
+    permission: splindux.staff
+  tournament:
+    description: tournament  
+    permission: splindux.staff
+  tip:
+    description: tip  
+  ranking:
+    description: ranking  
+  forcefinish:
+    description: forcefinish
+    permission: splindux.staff
+  parkoursetup:
+    description: parkoursetup   
+    permission: splindux.moderator
+  bet:
+    description: bet   
+  nightvision:
+    description: nightvision
+    aliases: [nv]
+  guild:
+    description: nightvision
+  guildchat:
+    description: nightvision
+    aliases: [gchat,gc]
+  friends:
+    description: nightvision
+    aliases: [fr,friend,f,amigo,amigos]
+  forcedecay:
+    description: f
+    permission: splindux.staff
+  forcegametime:
+    description: f
+    permission: splindux.staff
+  party:
+    description: f
+    aliases: [p]
+  partychat:
+    description: f
+    aliases: [pchat,pc]
+  title:
+    description: f
+  pause:
+    description: f
+  resume:
+    description: f
+  helmets:
+    description: f
+    aliases: [h,helmet]
+  chat:
+    description: f
+  forceplayto:
+    description: f
+    permission: splindux.staff
+  forceresume:
+    description: f
+    permission: splindux.staff
+  forcepause:
+    description: f
+    permission: splindux.staff
+  forcescore:
+    description: f
+    permission: splindux.staff
+  redo:
+    description: f
+  forceredo:
+    description: f
+    permission: splindux.staff
+  stream:
+    description: f
+    permission: splindux.stream
+  options:
+    description: f
+    aliases: [opciones,config,configuration,option]

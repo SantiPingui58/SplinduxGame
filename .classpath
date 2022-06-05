@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/spigot-1.12.2.jar"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/FAWESplinduxAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/eclipse-workspace/SplinduxAPI-Bukkit/target/SplinduxAPI-Bukkit-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/luckperms-api-5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/eclipse-workspace/SplinduxTranslateAPI-Bukkit/target/SplinduxTranslateAPI-Bukkit-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
